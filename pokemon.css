@@ -1,0 +1,8 @@
+.pokeball {
+	width: 12rem;
+	height: 12rem;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+}
