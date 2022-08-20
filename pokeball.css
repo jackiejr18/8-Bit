@@ -1,13 +1,21 @@
+
 .pokeball {
 	width: 12rem;
 	height: 12rem;
 	top: 50%;
 	left: 50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-50% ,-50%);
 	position: absolute;
 }
 
 .pixel {
 	width: 1rem;
 	height: 1rem;
+	box-shadow: 
+	/* row 1 First Pixel */
+	0rem 0rem 0 -0.05rem #fff,
+	1rem 0rem 0 -0.05rem #fff,
+	2rem 0rem 0 -0.05rem #fff,
+	3rem 0rem 0 -0.05rem #fff,
+	4rem 0rem 0 -0.05rem #222,
 }
