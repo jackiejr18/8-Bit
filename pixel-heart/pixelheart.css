@@ -1,10 +1,17 @@
 .pixelheart {
+	position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 	background: transparent;
   height: 1px;
   width: 1px;
 	color: red;
 	box-shadow: 
 		/* 1st row */ 1px 0,2px 0, 6px 0, 7px 0, 
-		/* 2nd row */ 0 1px, 1px 1px, 2px 1px, 3px 1px, 5px 1px, 6px 1px, 7px 1px, 8px 1px;
+		/* 2nd row */ 0 1px, 1px 1px, 2px 1px, 3px 1px, 5px 1px, 6px 1px, 7px 1px, 8px 1px,
+		/* 3rd row */ 0 2px, 1px 2px, 2px 2px, 3px 2px, 4px 2px, 5px 2px, 6px 2px, 7px 2px, 8px 2px
+		;
 	transform: scale(20);
 }
