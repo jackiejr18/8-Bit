@@ -14,7 +14,8 @@
 		/* 3rd row */ 0 2px, 1px 2px, 2px 2px, 3px 2px, 4px 2px, 5px 2px, 6px 2px, 7px 2px, 8px 2px,
 		/* 4th row */ 0 3px, 1px 3px, 2px 3px, 3px 3px, 4px 3px, 5px 3px, 6px 3px, 7px 3px, 8px 3px,
 		/* 5th row */ 1px 4px, 2px 4px, 3px 4px, 4px 4px, 5px 4px, 6px 4px, 7px 4px,
-		/* 6th row */ 2px 5px, 3px 5px, 4px 5px, 5px 5px, 6px 5px
+		/* 6th row */ 2px 5px, 3px 5px, 4px 5px, 5px 5px, 6px 5px,
+		/* 7th row */ 3px 6px, 4px 6px, 5px 6px
 		;
 	transform: scale(20);
 }
