@@ -12,11 +12,18 @@
 	width: 1rem;
 	height: 1rem;
 	box-shadow: 
-	/* row 1 First Pixel */
+	/* row 1 */
 	0rem 0rem 0 -0.05rem #fff,
 	1rem 0rem 0 -0.05rem #fff,
 	2rem 0rem 0 -0.05rem #fff,
 	3rem 0rem 0 -0.05rem #fff,
-	4rem 0rem 0 -0.05rem #222
+	4rem 0rem 0 -0.05rem #222,
+	5rem 0rem 0 -0.05rem #222,
+	6rem 0rem 0 -0.05rem #222,
+	7rem 0rem 0 -0.05rem #222,
+	8rem 0rem 0 -0.05rem #fff,
+	9rem 0rem 0 -0.05rem #fff,
+	10rem 0rem 0 -0.05rem #fff,
+	11rem 0rem 0 -0.05rem #fff
 	;
 }
