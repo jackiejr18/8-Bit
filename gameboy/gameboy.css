@@ -1,4 +1,4 @@
-*{
+* {
 	padding: 0;
 	margin: 0;
 }
@@ -10,4 +10,42 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+.gameboy {
+	margin-top: -55vmin;
+	margin-left: -35vmin;
+	background: transparent;
+	font-size: 2vmin;
+	height: 1em;
+	width: 1em;
+	color: #445291;
+	box-shadow:
+	/* row 1 */
+	1em 0 #004278,
+	2em 0 #004278,
+	3em 0 #004278,
+	4em 0 #004278,
+	5em 0 #004278,
+	6em 0 #004278,
+	7em 0 #004278,
+	8em 0 #004278,
+	9em 0 #004278,
+	10em 0 #004278,
+	11em 0 #004278,
+	12em 0 #004278,
+	13em 0 #004278,
+	14em 0 #004278,
+	15em 0 #004278,
+	16em 0 #004278,
+	17em 0 #004278
+	;
+
+
+
+
+	
+
+
+
 }
