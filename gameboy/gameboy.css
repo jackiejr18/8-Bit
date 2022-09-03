@@ -713,17 +713,21 @@ body {
    16em 31em #5CC8A0, 
    17em 31em #5CC8A0, 
    18em 31em #5CC8A0, 
-   19em 31em #5CC8A0
-
-
-
-	;
-
-
-
-
-	
-
-
-
+   19em 31em #5CC8A0,
+   /* 2nd horizontal line of shadow */
+   4em 32em #5CC8A0, 
+   5em 32em #5CC8A0, 
+   6em 32em #5CC8A0, 
+   7em 32em #5CC8A0, 
+   8em 32em #5CC8A0, 
+   9em 32em #5CC8A0, 
+   10em 32em #5CC8A0, 
+   11em 32em #5CC8A0, 
+   12em 32em #5CC8A0, 
+   13em 32em #5CC8A0, 
+   14em 32em #5CC8A0, 
+   15em 32em #5CC8A0, 
+   16em 32em #5CC8A0, 
+   17em 32em #5CC8A0, 
+   18em 32em #5CC8A0;
 }
