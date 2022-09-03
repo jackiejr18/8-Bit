@@ -634,7 +634,7 @@ body {
 	 15em 30em #004278, 
 	 16em 30em #004278,
 	 
-	 /* shadow 1st line to left of gameboy */
+	 /* shadow 1st vertical line to left of gameboy */
 	 19em 2em #5CC8A0,
    19em 3em #5CC8A0, 
    19em 4em #5CC8A0, 
@@ -663,7 +663,7 @@ body {
    19em 27em #5CC8A0, 
    19em 28em #5CC8A0, 
    19em 29em #5CC8A0,
-   /* 2nd line of shadow */
+   /* 2nd vertical line of shadow */
    20em 4em #5CC8A0, 
    20em 5em #5CC8A0, 
    20em 6em #5CC8A0, 
@@ -690,12 +690,30 @@ body {
    20em 27em #5CC8A0, 
    20em 28em #5CC8A0, 
    20em 29em #5CC8A0,
-   /* corner of shadow, bottom right*/
+   /* corner of shadow of gameboy, bottom right */
    18em 29em #5CC8A0, 
    17em 30em #5CC8A0, 
    18em 30em #5CC8A0, 
    19em 30em #5CC8A0, 
-   20em 30em #5CC8A0
+   20em 30em #5CC8A0,
+   /* first horizontal shadow line under gameboy */
+   3em 31em #5CC8A0, 
+   4em 31em #5CC8A0, 
+   5em 31em #5CC8A0, 
+   6em 31em #5CC8A0, 
+   7em 31em #5CC8A0, 
+   8em 31em #5CC8A0, 
+   9em 31em #5CC8A0, 
+   10em 31em #5CC8A0, 
+   11em 31em #5CC8A0, 
+   12em 31em #5CC8A0, 
+   13em 31em #5CC8A0, 
+   14em 31em #5CC8A0, 
+   15em 31em #5CC8A0, 
+   16em 31em #5CC8A0, 
+   17em 31em #5CC8A0, 
+   18em 31em #5CC8A0, 
+   19em 31em #5CC8A0
 
 
 
