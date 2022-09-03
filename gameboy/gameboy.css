@@ -633,6 +633,7 @@ body {
 	 14em 30em #004278, 
 	 15em 30em #004278, 
 	 16em 30em #004278,
+	 
 	 /* shadow 1st line to left of gameboy */
 	 19em 2em #5CC8A0,
    19em 3em #5CC8A0, 
@@ -688,7 +689,13 @@ body {
    20em 26em #5CC8A0, 
    20em 27em #5CC8A0, 
    20em 28em #5CC8A0, 
-   20em 29em #5CC8A0
+   20em 29em #5CC8A0,
+   /* corner of shadow, bottom right*/
+   18em 29em #5CC8A0, 
+   17em 30em #5CC8A0, 
+   18em 30em #5CC8A0, 
+   19em 30em #5CC8A0, 
+   20em 30em #5CC8A0
 
 
 
