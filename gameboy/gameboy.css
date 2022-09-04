@@ -764,6 +764,7 @@ body {
     8em 9em, 9em 9em, 10em 9em; 
   }
 
+  /* added yellow and black */
   10% {
     box-shadow:
       3em 5em red,
@@ -775,6 +776,7 @@ body {
       8em 9em black, 9em 9em black, 10em 9em black;
   }
 
+  /* added orange */
   15% {
     box-shadow:
       3em 5em red,
@@ -784,6 +786,29 @@ body {
       10em 6em, 10em 7em, /*4th bar*/
       11em 6em, 11em 7em, /*5th bar*/
       8em 9em black, 9em 9em black, 10em 9em black;
+  }
 
-      
+  /* added pink */
+	20% {
+	    box-shadow:
+	      3em 5em red,
+	      7em 6em deeppink, 7em 7em deeppink, /*1st bar*/
+	      8em 6em orange, 8em 7em orange, /*2nd bar*/
+	      9em 6em yellow, 9em 7em yellow, /*3rd bar*/
+	      10em 6em, 10em 7em, /*4th bar*/
+	      11em 6em, 11em 7em, /*5th bar*/
+	      8em 9em black, 9em 9em black, 10em 9em black;
+	  }
+
+	/* added greenyellow */
+	25% {
+    box-shadow:
+      3em 5em red,
+      7em 6em greenyellow, 7em 7em greenyellow, /*1st bar*/
+      8em 6em deeppink, 8em 7em deeppink, /*2nd bar*/
+      9em 6em orange, 9em 7em orange, /*3rd bar*/
+      10em 6em yellow, 10em 7em yellow, /*4th bar*/
+      11em 6em, 11em 7em, /*5th bar*/
+      8em 9em black, 9em 9em black, 10em 9em black;
+  }
 }
