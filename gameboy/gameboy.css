@@ -811,4 +811,28 @@ body {
       11em 6em, 11em 7em, /*5th bar*/
       8em 9em black, 9em 9em black, 10em 9em black;
   }
+
+  /* added blue */
+  30% {
+    box-shadow:
+      3em 5em red,
+      7em 6em blue, 7em 7em blue, /*1st bar*/
+      8em 6em greenyellow, 8em 7em greenyellow, /*2nd bar*/
+      9em 6em deeppink, 9em 7em deeppink, /*3rd bar*/
+      10em 6em orange, 10em 7em orange, /*4th bar*/
+      11em 6em yellow, 11em 7em yellow, /*5th bar*/
+      8em 9em black, 9em 9em black, 10em 9em black;    
+  }
+
+  /* width of blue now 2 pixels*/
+  35% {
+    box-shadow:
+      3em 5em red,
+      7em 6em blue, 7em 7em blue, /*1st bar*/
+      8em 6em blue, 8em 7em blue, /*2nd bar*/
+      9em 6em greenyellow, 9em 7em greenyellow, /*3rd bar*/
+      10em 6em deeppink, 10em 7em deeppink, /*4th bar*/
+      11em 6em orange, 11em 7em orange, /*5th bar*/
+      8em 9em black, 9em 9em black, 10em 9em black;       
+  }
 }
