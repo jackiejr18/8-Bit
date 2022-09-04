@@ -835,4 +835,16 @@ body {
       11em 6em orange, 11em 7em orange, /*5th bar*/
       8em 9em black, 9em 9em black, 10em 9em black;       
   }
+
+  /* width of blue now 3 pixels */
+  40% {
+    box-shadow:
+      3em 5em red,
+      7em 6em blue, 7em 7em blue, /*1st bar*/
+      8em 6em blue, 8em 7em blue, /*2nd bar*/
+      9em 6em blue, 9em 7em blue, /*3rd bar*/
+      10em 6em greenyellow, 10em 7em greenyellow, /*4th bar*/
+      11em 6em deeppink, 11em 7em deeppink, /*5th bar*/
+      8em 9em black, 9em 9em black, 10em 9em black;     
+  }
 }
