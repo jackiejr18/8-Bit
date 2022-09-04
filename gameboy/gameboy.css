@@ -732,6 +732,7 @@ body {
    18em 32em #5CC8A0;
 }
 
+/* added transparent layer */
 .gameboy::after {
 	content: '';
 	position: absolute;
@@ -748,4 +749,18 @@ body {
     11em 6em, 11em 7em, /*5th bar*/
     8em 9em, 9em 9em, 10em 9em;
   animation: turn-on 1.5s infinite;
+}
+
+@keyframes turn-on {
+  5% {
+  /* added red light */
+  box-shadow:
+    3em 5em red,
+    7em 6em, 7em 7em, /*1st bar*/
+    8em 6em, 8em 7em, /*2nd bar*/
+    9em 6em, 9em 7em, /*3rd bar*/
+    10em 6em, 10em 7em, /*4th bar*/
+    11em 6em, 11em 7em, /*5th bar*/
+    8em 9em, 9em 9em, 10em 9em; 
+  }
 }
