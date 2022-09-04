@@ -774,4 +774,16 @@ body {
       11em 6em, 11em 7em, /*5th bar*/
       8em 9em black, 9em 9em black, 10em 9em black;
   }
+
+  15% {
+    box-shadow:
+      3em 5em red,
+      7em 6em orange, 7em 7em orange, /*1st bar*/
+      8em 6em yellow, 8em 7em yellow, /*2nd bar*/
+      9em 6em, 9em 7em, /*3rd bar*/
+      10em 6em, 10em 7em, /*4th bar*/
+      11em 6em, 11em 7em, /*5th bar*/
+      8em 9em black, 9em 9em black, 10em 9em black;
+
+      
 }
