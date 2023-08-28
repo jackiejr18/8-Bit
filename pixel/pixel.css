@@ -1,0 +1,7 @@
+.pixel {
+	background: transparent;
+	height: 1px;
+	width: 1px;
+	box-shadow: 1px 0, 2px 0 red, 3px 0 green;
+	transform: scale(20);
+}
